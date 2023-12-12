@@ -1,6 +1,6 @@
-package com.yupi.springbootinit;
+package com.zixin.springbootinit;
 
-import com.yupi.springbootinit.config.WxOpenConfig;
+import com.zixin.springbootinit.config.WxOpenConfig;
 import javax.annotation.Resource;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
